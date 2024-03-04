@@ -8,7 +8,7 @@ namespace filemanager
         static void Main(string[] args)
         {
             // array with words
-            string[] arrayOFwords = { "Dog", "PC", "Cat", "Door", "boot", "Money", "Apple", "day", "diet" };
+            string[] arrayOFwords = { "Dog", "PC", "Book", "Cat", "Door", "boot", "Money", "Apple", "day", "diet" };
 
             // call function to filter the arrayOFwords and store the result in a list
             List<string> filteredWords = Filter(arrayOFwords);
