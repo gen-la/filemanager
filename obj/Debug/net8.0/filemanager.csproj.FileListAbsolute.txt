@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\filemanager\filemanager\bin\Debug\net8.0\filemanager.exe
+C:\Users\HP\source\repos\filemanager\filemanager\bin\Debug\net8.0\filemanager.deps.json
+C:\Users\HP\source\repos\filemanager\filemanager\bin\Debug\net8.0\filemanager.runtimeconfig.json
+C:\Users\HP\source\repos\filemanager\filemanager\bin\Debug\net8.0\filemanager.dll
+C:\Users\HP\source\repos\filemanager\filemanager\bin\Debug\net8.0\filemanager.pdb
+C:\Users\HP\source\repos\filemanager\filemanager\obj\Debug\net8.0\filemanager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\filemanager\filemanager\obj\Debug\net8.0\filemanager.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\filemanager\filemanager\obj\Debug\net8.0\filemanager.AssemblyInfo.cs
+C:\Users\HP\source\repos\filemanager\filemanager\obj\Debug\net8.0\filemanager.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\filemanager\filemanager\obj\Debug\net8.0\filemanager.dll
+C:\Users\HP\source\repos\filemanager\filemanager\obj\Debug\net8.0\refint\filemanager.dll
+C:\Users\HP\source\repos\filemanager\filemanager\obj\Debug\net8.0\filemanager.pdb
+C:\Users\HP\source\repos\filemanager\filemanager\obj\Debug\net8.0\filemanager.genruntimeconfig.cache
+C:\Users\HP\source\repos\filemanager\filemanager\obj\Debug\net8.0\ref\filemanager.dll
