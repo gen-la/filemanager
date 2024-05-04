@@ -12,3 +12,4 @@ C:\Users\HP\source\repos\filemanager\filemanager\obj\Debug\net8.0\refint\fileman
 C:\Users\HP\source\repos\filemanager\filemanager\obj\Debug\net8.0\filemanager.pdb
 C:\Users\HP\source\repos\filemanager\filemanager\obj\Debug\net8.0\filemanager.genruntimeconfig.cache
 C:\Users\HP\source\repos\filemanager\filemanager\obj\Debug\net8.0\ref\filemanager.dll
+C:\Users\HP\source\repos\filemanager\filemanager\obj\Debug\net8.0\filemanager.sourcelink.json
